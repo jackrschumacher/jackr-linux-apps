@@ -25,6 +25,7 @@ aspell						install
 aspell-en					install
 at-spi2-common					install
 at-spi2-core					install
+atop						install
 avahi-daemon					install
 avahi-utils					install
 bamfdaemon					install
@@ -373,6 +374,7 @@ ibus-gtk3:arm64					install
 ibus-gtk4:arm64					install
 ibus-table					install
 ibverbs-providers:arm64				install
+iftop						install
 iio-sensor-proxy				install
 im-config					install
 indicator-applet				install
@@ -396,6 +398,7 @@ initramfs-tools-bin				install
 initramfs-tools-core				install
 inputattach					install
 install-info					install
+iotop						install
 ipp-usb						install
 iproute2					install
 iptables					install
@@ -1878,6 +1881,7 @@ nodejs-doc					install
 npm						install
 ntfs-3g						install
 numactl						install
+nvtop						deinstall
 ocl-icd-libopencl1:arm64			install
 oem-config					deinstall
 oem-config-gtk					deinstall
